@@ -95,3 +95,4 @@ for chunk in data_iter:
             unique_textcols[obj_col].append(vals)
 unique_textcols
 print(obj.columns)
+
